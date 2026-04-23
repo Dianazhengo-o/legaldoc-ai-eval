@@ -1,0 +1,22 @@
+# API 金鑰，絕對不上傳
+.env
+
+# Claude Code 本地設定
+.claude/
+
+# 虛擬環境
+venv/
+
+# 執行結果（本地產物）
+results/
+
+# Python 快取
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS 系統檔
+.DS_Store
+
+# Windows 系統檔
+Thumbs.db
