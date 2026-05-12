@@ -2,6 +2,9 @@
 
 本專案是一個 AI 評估（Eval）框架，設計目的是對大量結構化文件進行系統性的 prompt 策略比較，並輸出量化報告。
 **示範應用**：台灣法院外遇相關民事判決書。輸入 PDF 判決書，自動萃取案件結構，並以 5 種不同的 prompt 策略分析每份文件，產生視覺化 HTML 比較報告。
+
+
+
 <img width="249" height="202" alt="下載" src="https://github.com/user-attachments/assets/144bc9c7-f683-4a24-968c-19aec35a8ab1" />
 
 ---
